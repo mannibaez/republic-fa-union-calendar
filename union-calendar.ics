@@ -1,0 +1,788 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Teamsters Local 135//Republic FA Union Calendar//EN
+X-WR-CALNAME:Teamsters Local 135 - Republic Flight Attendants
+X-WR-TIMEZONE:UTC
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+DTSTAMP:20261010T204403Z
+BEGIN:VEVENT
+UID:republic-fa-b33d8088-e503-412a-8b31-c9d1e1b74a7e@local135.com
+DTSTAMP:20260912T060911Z
+LAST-MODIFIED:20260912T060911Z
+SEQUENCE:1789193351
+DTSTART:20260901T042500Z
+SUMMARY:General Membership Meeting in Indy
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Union Hall
+DESCRIPTION:Come join us! Open the Republic FA Portal for any member-only
+  virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-4361e64c-a1c9-4093-bff8-f1d19cc53cec@local135.com
+DTSTAMP:20260912T063052Z
+LAST-MODIFIED:20260912T063052Z
+SEQUENCE:1789194652
+DTSTART:20260901T140000Z
+DTEND:20260901T160000Z
+SUMMARY:Open Contract Proposal Meeting — Article 28: Paid Days Off
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 28: Paid Days Off. 1st Session. Members 
+ are encouraged to attend and participate in developing proposals for the 
+ next collective bargaining agreement. In person: Teamsters Local 135\, 28
+ 29 Madison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on
+  the source flyer are EDT. Open the Republic FA Portal for any member-onl
+ y virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-e2231cc9-ee9b-44ba-b510-132f715f8539@local135.com
+DTSTAMP:20260912T063052Z
+LAST-MODIFIED:20260912T063052Z
+SEQUENCE:1789194652
+DTSTART:20260901T200000Z
+DTEND:20260901T220000Z
+SUMMARY:Open Contract Proposal Meeting — Article 28: Paid Days Off
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 28: Paid Days Off. 2nd Session. Members 
+ are encouraged to attend and participate in developing proposals for the 
+ next collective bargaining agreement. In person: Teamsters Local 135\, 28
+ 29 Madison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on
+  the source flyer are EDT. Open the Republic FA Portal for any member-onl
+ y virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-0e0e0889-f465-4a26-9d6d-1dcaa8c9ff45@local135.com
+DTSTAMP:20260912T063052Z
+LAST-MODIFIED:20260912T063052Z
+SEQUENCE:1789194652
+DTSTART:20260903T110000Z
+DTEND:20260903T130000Z
+SUMMARY:Open Contract Proposal Meeting — Article 7: Reserve
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 7: Reserve. 1st Session. Members are enc
+ ouraged to attend and participate in developing proposals for the next co
+ llective bargaining agreement. In person: Teamsters Local 135\, 2829 Madi
+ son Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on the so
+ urce flyer are EDT. Open the Republic FA Portal for any member-only virtu
+ al meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-ca22b9ec-7d89-40ac-aa97-371a35fc284d@local135.com
+DTSTAMP:20260912T063052Z
+LAST-MODIFIED:20260912T063052Z
+SEQUENCE:1789194652
+DTSTART:20260903T160000Z
+DTEND:20260903T180000Z
+SUMMARY:Open Contract Proposal Meeting — Article 7: Reserve
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 7: Reserve. 2nd Session. Members are enc
+ ouraged to attend and participate in developing proposals for the next co
+ llective bargaining agreement. In person: Teamsters Local 135\, 2829 Madi
+ son Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on the so
+ urce flyer are EDT. Open the Republic FA Portal for any member-only virtu
+ al meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-f9faff8f-6f0f-49a8-a098-08494278bbfd@local135.com
+DTSTAMP:20260912T063052Z
+LAST-MODIFIED:20260912T063052Z
+SEQUENCE:1789194652
+DTSTART:20260903T230000Z
+SUMMARY:PIT Base Night — Washington Wild Things
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Washington Wild Things\, One Washington Federal Way\, Washington
+ \, PA 15301
+DESCRIPTION:PIT Base Night at the Washington Wild Things. Come out and su
+ pport the PIT base. Flyer lists a 7:00 PM game\; no end time was stated.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-b7987847-9753-4685-bfc1-3c45afcc2833@local135.com
+DTSTAMP:20260912T063052Z
+LAST-MODIFIED:20260912T063052Z
+SEQUENCE:1789194652
+DTSTART:20260909T193000Z
+DTEND:20260909T223000Z
+SUMMARY:SDF Flight Attendant Rally — Topgolf
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Topgolf\, 301 Oxmoor Ln\, Louisville\, KY 40222
+DESCRIPTION:SDF Flight Attendant rally at Topgolf. Contract campaign even
+ t focused on contract issues and working conditions.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-89ff987d-6df9-4a54-961b-6ab3949110ef@local135.com
+DTSTAMP:20260912T063053Z
+LAST-MODIFIED:20260912T063053Z
+SEQUENCE:1789194653
+DTSTART:20260910T180000Z
+DTEND:20260910T200000Z
+SUMMARY:Open Contract Proposal Meeting — Article 14: Insurance and Othe
+ r Benefits
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 14: Insurance and Other Benefits. Member
+ s are encouraged to attend and participate in developing proposals for th
+ e next collective bargaining agreement. In person: Teamsters Local 135\, 
+ 2829 Madison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown 
+ on the source flyer are EDT. The flyer labels this date 'Tue\, Sept 10th.
+ ' September 10\, 2026 falls on a Thursday\; the calendar event uses the s
+ tated date\, September 10\, 2026. Open the Republic FA Portal for any mem
+ ber-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-3275b75c-d4d8-4477-bd79-7a286e0a5bdf@local135.com
+DTSTAMP:20260912T063053Z
+LAST-MODIFIED:20260912T063053Z
+SEQUENCE:1789194653
+DTSTART:20260915T130000Z
+DTEND:20260915T150000Z
+SUMMARY:Open Contract Proposal Meeting — Article 6: Scheduling
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 6: Scheduling. 1st Session. Members are 
+ encouraged to attend and participate in developing proposals for the next
+  collective bargaining agreement. In person: Teamsters Local 135\, 2829 M
+ adison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on the
+  source flyer are EDT. Open the Republic FA Portal for any member-only vi
+ rtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-5a843709-c302-4c34-88ed-f78c41ec93de@local135.com
+DTSTAMP:20260912T063053Z
+LAST-MODIFIED:20260912T063053Z
+SEQUENCE:1789194653
+DTSTART:20260915T190000Z
+DTEND:20260915T210000Z
+SUMMARY:Open Contract Proposal Meeting — Article 6: Scheduling
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 6: Scheduling. 2nd Session. Members are 
+ encouraged to attend and participate in developing proposals for the next
+  collective bargaining agreement. In person: Teamsters Local 135\, 2829 M
+ adison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on the
+  source flyer are EDT. Open the Republic FA Portal for any member-only vi
+ rtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-2651d7fe-df46-4b33-9305-2f631bdab6fb@local135.com
+DTSTAMP:20260912T063053Z
+LAST-MODIFIED:20260912T063053Z
+SEQUENCE:1789194653
+DTSTART:20260916T190000Z
+DTEND:20260916T200000Z
+SUMMARY:FA Info Session with Q&A — Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual / registration required
+DESCRIPTION:Flight Attendant Info Session with Q&A. The email states thes
+ e are held every 3rd Wednesday from 1500–1600 ET. Open the Republic FA 
+ Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-a7e83e7b-a489-49ba-bdb5-be4f59e9ea37@local135.com
+DTSTAMP:20260912T063053Z
+LAST-MODIFIED:20260912T063053Z
+SEQUENCE:1789194653
+DTSTART:20260923T190000Z
+DTEND:20260923T200000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-e865dcab-ddc0-4ce2-8e2d-fc6d159035f3@local135.com
+DTSTAMP:20260912T063053Z
+LAST-MODIFIED:20260912T063053Z
+SEQUENCE:1789194653
+DTSTART:20260924T130000Z
+DTEND:20260924T150000Z
+SUMMARY:Open Contract Proposal Meeting — Article 3: Compensation
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 3: Compensation. 1st Session. Members ar
+ e encouraged to attend and participate in developing proposals for the ne
+ xt collective bargaining agreement. In person: Teamsters Local 135\, 2829
+  Madison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on t
+ he source flyer are EDT. Open the Republic FA Portal for any member-only 
+ virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-4ba03397-c002-4fd9-9ba4-1e1526fa5955@local135.com
+DTSTAMP:20260912T063054Z
+LAST-MODIFIED:20260912T063054Z
+SEQUENCE:1789194654
+DTSTART:20260924T190000Z
+DTEND:20260924T210000Z
+SUMMARY:Open Contract Proposal Meeting — Article 3: Compensation
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 3: Compensation. 2nd Session. Members ar
+ e encouraged to attend and participate in developing proposals for the ne
+ xt collective bargaining agreement. In person: Teamsters Local 135\, 2829
+  Madison Avenue\, Indianapolis\, IN 46225. Via Zoom: All times shown on t
+ he source flyer are EDT. Open the Republic FA Portal for any member-only 
+ virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-9119a5e2-c5a7-4808-b156-7089892a6c2f@local135.com
+DTSTAMP:20260912T063054Z
+LAST-MODIFIED:20260912T063054Z
+SEQUENCE:1789194654
+DTSTART:20260925T140000Z
+DTEND:20260925T160000Z
+SUMMARY:Open Contract Proposal Meeting — Article 3: Compensation
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135\, 2829 Madison Avenue\, Indianapolis\, IN 46
+ 225 / Zoom
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Featured topic: Article 3: Compensation. Members are encouraged 
+ to attend and participate in developing proposals for the next collective
+  bargaining agreement. In person: Teamsters Local 135\, 2829 Madison Aven
+ ue\, Indianapolis\, IN 46225. Via Zoom: All times shown on the source fly
+ er are EDT. Open the Republic FA Portal for any member-only virtual meeti
+ ng link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-8be1064f-c6cb-4d85-aabc-a835d2bf9ba6@local135.com
+DTSTAMP:20260912T063054Z
+LAST-MODIFIED:20260912T063054Z
+SEQUENCE:1789194654
+DTSTART:20260927T133000Z
+SUMMARY:General Membership Meeting — Teamsters Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Terre Haute Union Hall\, 125 S 8th Street\, Terre Haute\, IN
+DESCRIPTION:General Membership Meeting. Meetings start at 0930 Eastern Ti
+ me. To attend via Zoom\, email Kevin Parham at no later than the Thursday
+  before the meeting. The source email does not state an end time.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-788a3b2e-f1e4-455e-ac56-610162d7be21@local135.com
+DTSTAMP:20260912T063054Z
+LAST-MODIFIED:20260912T063054Z
+SEQUENCE:1789194654
+DTSTART:20260930T190000Z
+DTEND:20260930T200000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-31464976-6d3e-411e-a429-b81bbfcb29db@local135.com
+DTSTAMP:20260912T063054Z
+LAST-MODIFIED:20260912T063054Z
+SEQUENCE:1789194654
+DTSTART:20261007T190000Z
+DTEND:20261007T200000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-15165a1f-e69d-4e80-ab53-9521c6c7aaa4@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261014T190000Z
+DTEND:20261014T200000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-01b52cbf-7e8a-4d9a-ab54-cd4a344acb0e@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261021T190000Z
+DTEND:20261021T200000Z
+SUMMARY:FA Info Session with Q&A — Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual / registration required
+DESCRIPTION:Flight Attendant Info Session with Q&A. The email states thes
+ e are held every 3rd Wednesday from 1500–1600 ET.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-cddb0902-85d4-4ece-8990-ce4b661a5482@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261025T133000Z
+SUMMARY:General Membership Meeting — Teamsters Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135 Union Hall\, 2829 Madison Ave\, Indianapolis
+ \, IN 46225
+DESCRIPTION:General Membership Meeting. Meetings start at 0930 Eastern Ti
+ me. To attend via Zoom\, email Kevin Parham at no later than the Thursday
+  before the meeting. The source email does not state an end time.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-3b32328f-f48b-428d-ada3-4048e43d0f9f@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261028T190000Z
+DTEND:20261028T200000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-5cbd1789-85b6-46e6-be79-cb1761014d32@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Round 2 Proposal Meeting – Article 7
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 7. Meeting held via Zoom in the U
+ nion Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-b53b9f3e-ddbe-4376-91df-3c01fbf8eab2@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261104T200000Z
+DTEND:20261104T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-ddd326d1-77de-4c88-9072-1c018d87f975@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:Round 2 Proposal Meeting – Article 22
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 22. Meeting held via Zoom in the 
+ Union Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-45298945-f65d-4853-841f-968dd9c05234@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261108T230000Z
+DTEND:20261109T010000Z
+SUMMARY:Round 2 Proposal Meeting – Article 29
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 29. Meeting held via Zoom in the 
+ Union Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-b9b0cf7f-c66c-4638-b63e-cf4f699169cd@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261111T200000Z
+DTEND:20261111T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-10e347c1-9be3-49f6-bc8b-cf1d268ec641@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+SUMMARY:Round 2 Proposal Meeting – Article 6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 6. Meeting held via Zoom in the U
+ nion Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-590c71e7-eed0-4a00-96d0-1de114d52ca7@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261114T143000Z
+SUMMARY:General Membership Meeting — Teamsters Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135 Union Hall\, 2829 Madison Ave\, Indianapolis
+ \, IN 46225
+DESCRIPTION:General Membership Meeting. Meetings start at 0930 Eastern Ti
+ me. To attend via Zoom\, email Kevin Parham at no later than the Thursday
+  before the meeting. The source email does not state an end time.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-79c7bb4a-1219-4c2a-8cc6-1fff36a177a1@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Round 2 Proposal Meeting – Article 7
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 7. Meeting held via Zoom in the U
+ nion Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-cb04d668-b608-45cd-9724-2c8276e4ba36@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261115T230000Z
+DTEND:20261116T010000Z
+SUMMARY:Round 2 Proposal Meeting – Article 8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 8. Meeting held via Zoom in the U
+ nion Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-b70a9e2e-b22e-4568-b9e0-dec192b2cc94@local135.com
+DTSTAMP:20260912T063055Z
+LAST-MODIFIED:20260912T063055Z
+SEQUENCE:1789194655
+DTSTART:20261118T200000Z
+DTEND:20261118T210000Z
+SUMMARY:FA Info Session with Q&A — Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual / registration required
+DESCRIPTION:Flight Attendant Info Session with Q&A. The email states thes
+ e are held every 3rd Wednesday from 1500–1600 ET.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-8c4fc64e-a1b7-4d61-8816-ead1e8f27411@local135.com
+DTSTAMP:20260912T063056Z
+LAST-MODIFIED:20260912T063056Z
+SEQUENCE:1789194656
+DTSTART:20261125T200000Z
+DTEND:20261125T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-8f4cbc03-7641-485e-9168-f703f6749e86@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Round 2 Proposal Meeting – Article 28
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 28. Meeting held via Zoom in the 
+ Union Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-157c50d8-52d8-4dbf-863c-eb55195eb53b@local135.com
+DTSTAMP:20260912T063056Z
+LAST-MODIFIED:20260912T063056Z
+SEQUENCE:1789194656
+DTSTART:20261202T200000Z
+DTEND:20261202T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-6bbdb547-8c35-4c75-a11c-f4ed7b5240cb@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Round 2 Proposal Meeting – Article 6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 6. Meeting held via Zoom in the U
+ nion Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-438add05-c688-4071-a10e-1344543736cb@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261206T230000Z
+DTEND:20261207T010000Z
+SUMMARY:Round 2 Proposal Meeting – Article 12
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 12. Meeting held via Zoom in the 
+ Union Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-4fc35597-69a1-4b90-a92f-2c0548443112@local135.com
+DTSTAMP:20260912T063056Z
+LAST-MODIFIED:20260912T063056Z
+SEQUENCE:1789194656
+DTSTART:20261209T200000Z
+DTEND:20261209T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-6d6e1f8b-6fef-446d-ad61-f82dd3d33f1d@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:Round 2 Proposal Meeting – Article 14
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 14. Meeting held via Zoom in the 
+ Union Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-c3aa23d1-9cc9-4322-b239-6533d1e8f801@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Round 2 Proposal Meeting – Article 24
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 24. Meeting held via Zoom in the 
+ Union Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-705c2db4-ad8e-49c7-8443-16b7d5212855@local135.com
+DTSTAMP:20260912T063057Z
+LAST-MODIFIED:20260912T063057Z
+SEQUENCE:1789194657
+DTSTART:20261213T143000Z
+SUMMARY:General Membership Meeting — Teamsters Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Teamsters Local 135 Union Hall\, 2829 Madison Ave\, Indianapolis
+ \, IN 46225
+DESCRIPTION:General Membership Meeting. Meetings start at 0930 Eastern Ti
+ me. To attend via Zoom\, email Kevin Parham at no later than the Thursday
+  before the meeting. The source email does not state an end time.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-86d416a3-d72a-4fea-86a4-de8af85d71ac@local135.com
+DTSTAMP:20261010T174246Z
+LAST-MODIFIED:20261010T174246Z
+SEQUENCE:1791654166
+DTSTART:20261213T230000Z
+DTEND:20261214T010000Z
+SUMMARY:Round 2 Proposal Meeting – Article 3
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Zoom – Union Virtual Office
+DESCRIPTION:Teamsters Local 135 Flight Attendants Open Contract Proposal 
+ Meeting. Round 2 discussion for Article 3. Meeting held via Zoom in the U
+ nion Virtual Office.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-3f4aa95f-5651-45ca-9ec2-0e30d51bb93a@local135.com
+DTSTAMP:20260912T063057Z
+LAST-MODIFIED:20260912T063057Z
+SEQUENCE:1789194657
+DTSTART:20261216T200000Z
+DTEND:20261216T210000Z
+SUMMARY:FA Info Session with Q&A — Local 135
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual / registration required
+DESCRIPTION:Flight Attendant Info Session with Q&A. The email states thes
+ e are held every 3rd Wednesday from 1500–1600 ET.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-2ee71592-cbf0-40c3-a179-baf9dab0b0e8@local135.com
+DTSTAMP:20260912T063057Z
+LAST-MODIFIED:20260912T063057Z
+SEQUENCE:1789194657
+DTSTART:20261223T200000Z
+DTEND:20261223T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+BEGIN:VEVENT
+UID:republic-fa-9c623382-8397-4e98-b179-674aafa9d9cf@local135.com
+DTSTAMP:20260912T063058Z
+LAST-MODIFIED:20260912T063058Z
+SEQUENCE:1789194658
+DTSTART:20261230T200000Z
+DTEND:20261230T210000Z
+SUMMARY:FA Office Hours — Manni & Ryan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Virtual Office
+DESCRIPTION:Manni & Ryan host Office Hours on all other Wednesdays from 1
+ 500–1600 ET. This recurrence covers the September–December schedule s
+ hown in the email and excludes the listed FA Info Session Wednesdays. Ope
+ n the Republic FA Portal for any member-only virtual meeting link.
+URL:https://5pqoybsw5g.zite.so/events
+END:VEVENT
+END:VCALENDAR

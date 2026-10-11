@@ -1,3 +1,3 @@
-# Republic FA Union Calendar
+# Retired calendar-feed experiment
 
-Public subscription feed for published Teamsters Local 135 Republic Flight Attendant union events.
+This repository no longer publishes the Republic FA union calendar. Members should use the authenticated Republic FA Portal to view and export events.
